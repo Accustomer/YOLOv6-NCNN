@@ -1,0 +1,2 @@
+# YOLOv6-NCNN
+Deploy YOLOv6 by NCNN
