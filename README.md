@@ -113,3 +113,4 @@ Load and inference NCNN models as the way in **yolov6.cpp**. Here is an example 
 ![000000000597-mark](https://github.com/Accustomer/YOLOv6-NCNN/blob/main/images/000000000597-mark.jpg)
 
 
+See more details at: https://zhuanlan.zhihu.com/p/609567390
